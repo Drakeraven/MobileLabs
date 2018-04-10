@@ -31,4 +31,10 @@
     <string name="signin">Sign In</string>
     <string name="launch_custom_dialog">Launch Custom Dialog</string>
 
+    <string name="Launch_Notif">Launch Notification</string>
+    <string name="Notif_Title">Hey girl</string>
+    <string name="notif_content">Got ya to open your phone for no reason :))</string>
+
+    <string name="Channel_Name">Notif Test</string>
+    <string name="Channel_description">Trying to do a notif!</string>
 </resources>
